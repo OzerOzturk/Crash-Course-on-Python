@@ -1,8 +1,6 @@
 # Crash-Course-on-Python
 I will add the solutions of the assignments I did during the course here.
 
+**This course is part of the Google IT Automation with Python Professional Certificate.**
 
-
-**This course is part of the Google IT Automation with Python Professional Certificate. **
-
-![Crash Course on Python - foto](https://user-images.githubusercontent.com/60944453/103690807-525e2880-4fa6-11eb-8a14-39fd0570aee4.PNG)
+![google-python](https://user-images.githubusercontent.com/60944453/106381234-65f38800-63c8-11eb-936b-b581ceecb60f.PNG)
