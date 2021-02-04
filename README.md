@@ -1,5 +1,6 @@
 # Crash-Course-on-Python
-I will add the solutions of the assignments I did during the course here.
+
+The repo contains my solutions for the assignments in the course.
 
 **This course is part of the Google IT Automation with Python Professional Certificate.**
 
